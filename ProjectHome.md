@@ -1,0 +1,1 @@
+This project simulates evolution in a visual manner using fusicles, protein like 'creatures' that can move through and metabolize the world around them (even other fusicles). Every state is copied before applying changes to make sure the fusicles run in parallel. This also provides future addition of multithreaded simulation.
